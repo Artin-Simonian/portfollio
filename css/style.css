@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 60%;
+    margin: auto;
+}
+
+
+.container img{
+    height: 350px;
+    width: 265.25px;
+    border-radius: 5px;
+}
+
+.container p{
+    font-size: 1.5rem;
+    margin-left: 30px;
+}
